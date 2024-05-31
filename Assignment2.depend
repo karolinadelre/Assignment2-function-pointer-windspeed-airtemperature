@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1717145320 source:c:\users\karolina\desktop\ict283\assignment2\calcresults.cpp
+	"CalcResults.h"
+	"Math.h"
+
+1717145099 c:\users\karolina\desktop\ict283\assignment2\calcresults.h
+	"Vector.h"
+	"Bst.h"
+	"WindTempSolar.h"
+	"Math.h"
+	<map>
+
+1716925885 c:\users\karolina\desktop\ict283\assignment2\vector.h
+
+1716407396 c:\users\karolina\desktop\ict283\assignment2\windtempsolar.h
+	"Date.h"
+	"Time.h"
+	<string>
+
+1716293085 c:\users\karolina\desktop\ict283\assignment2\date.h
+	<iostream>
+	<sstream>
+
+1716284430 c:\users\karolina\desktop\ict283\assignment2\time.h
+	<string>
+
+1716293085 source:c:\users\karolina\desktop\ict283\assignment2\date.cpp
+	"Date.h"
+	<sstream>
+
+1717148533 source:c:\users\karolina\desktop\ict283\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<map>
+	"Date.h"
+	"Time.h"
+	"CalcResults.h"
+	"WindTempSolar.h"
+	"Vector.h"
+	"Bst.h"
+
+1716284430 source:c:\users\karolina\desktop\ict283\assignment2\time.cpp
+	"Time.h"
+	<sstream>
+
+1716407081 source:c:\users\karolina\desktop\ict283\assignment2\windtempsolar.cpp
+	"WindTempSolar.h"
+	"CalcResults.h"
+
+1716925885 c:\users\karolina\desktop\ict283\assignment2\bst.h
+
+1716370075 c:\users\karolina\desktop\ict283\assignment2\map.h
+	"Vector.h"
+	<utility>
+
+1717145099 c:\users\karolina\desktop\ict283\assignment2\math.h
+	"Vector.h"
+	"WindTempSolar.h"
+	<cmath>
+	<string>
+
+1717148698 source:c:\users\karolina\desktop\ict283\assignment2\math.cpp
+	"Math.h"
+
+1717150357 source:c:\users\karolina\desktop\ict283\assignment2\dataprocessor.cpp
+	"DataProcessor.h"
+
+1717150357 c:\users\karolina\desktop\ict283\assignment2\dataprocessor.h
+	"WindTempSolar.h"
+
